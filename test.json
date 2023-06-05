@@ -1,4 +1,7 @@
 {
+	"object": "list",
+	"data": 
+{
 			"project": "xyz",
 			"url": "https://zyx.org",
 			"version": [{
@@ -49,4 +52,5 @@
 					"notes": "Java 21 is planned for Oct. 2023 in version 3.0"
 				}
 			]
+}
 }
