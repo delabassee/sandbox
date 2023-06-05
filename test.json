@@ -1,6 +1,5 @@
 {
-	"data": [{
-			"name": "xyz",
+			"project": "xyz",
 			"url": "https://zyx.org",
 			"version": [{
 					"java": "11",
@@ -24,32 +23,30 @@
 					"notes": "Java 21 is planned for Oct. 2023 in version 3.0"
 				}
 			]
-		},
-		{
-			"name": "abc",
-			"url": "https://abc.com",
+},
+{
+			"project": "abc",
+			"url": "https://abc.org",
 			"version": [{
 					"java": "11",
 					"supported": true,
-					"version": "abc 1.0",
+					"version": "abc 1.2",
 					"url": "https://abc.org/release_notes",
 					"notes": ""
 				},
 				{
 					"java": "17",
 					"supported": true,
-					"version": "abc 1.0",
-					"url": "https://abc.org/CI-pipeline",
+					"version": "abc 2.1",
+					"url": "https://abc.org/release_notes",
 					"notes": ""
 				},
 				{
-					"java": "20",
-					"supported": true,
+					"java": "21",
+					"supported": false,
 					"version": "",
 					"url": "",
-					"notes": ""
+					"notes": "Java 21 is planned for Oct. 2023 in version 3.0"
 				}
 			]
-		}
-	]
 }
