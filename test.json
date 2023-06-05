@@ -1,6 +1,5 @@
 {
-	"object": "list",
-	"data": 
+	"data": [
 {
 			"project": "xyz",
 			"url": "https://zyx.org",
@@ -53,5 +52,6 @@
 				}
 			]
 }
+]
 }
 
