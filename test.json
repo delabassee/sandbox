@@ -1,55 +1,55 @@
-[{
-		"name": "xyz",
-		"url": "https://zyx.org",
-		"version": [{
-				"java": "11",
-				"supported": true,
-				"version": "zyx 1.2",
-				"url": "https://zyx.org/release_notes",
-				"notes": ""
-			},
-			{
-				"java": "17",
-				"supported": true,
-				"version": "zyx 2.1",
-				"url": "https://zyx.org/release_notes",
-				"notes": ""
-			},
-			{
-				"java": "21",
-				"supported": false,
-				"version": "",
-				"url": "",
-				"notes": "Java 21 is planned for Oct. 2023 in version 3.0"
-			}
-		]
-	},
-	{
-		"name": "abc",
-		"url": "https://abc.com",
-		"version": [{
-				"java": "11",
-				"supported": true,
-				"version": "abc 1.0",
-				"url": "https://abc.org/release_notes",
-				"notes": ""
-			},
-			{
-				"java": "17",
-				"supported": true,
-				"version": "abc 1.0",
-				"url": "https://abc.org/CI-pipeline",
-				"notes": ""
-			},
-			{
-				"java": "20",
-				"supported": true,
-				"version": "",
-				"url": "",
-				"notes": ""
-			}
-		]
-	}
-]
-
-
+{
+	"projects": [{
+			"name": "xyz",
+			"url": "https://zyx.org",
+			"version": [{
+					"java": "11",
+					"supported": true,
+					"version": "zyx 1.2",
+					"url": "https://zyx.org/release_notes",
+					"notes": ""
+				},
+				{
+					"java": "17",
+					"supported": true,
+					"version": "zyx 2.1",
+					"url": "https://zyx.org/release_notes",
+					"notes": ""
+				},
+				{
+					"java": "21",
+					"supported": false,
+					"version": "",
+					"url": "",
+					"notes": "Java 21 is planned for Oct. 2023 in version 3.0"
+				}
+			]
+		},
+		{
+			"name": "abc",
+			"url": "https://abc.com",
+			"version": [{
+					"java": "11",
+					"supported": true,
+					"version": "abc 1.0",
+					"url": "https://abc.org/release_notes",
+					"notes": ""
+				},
+				{
+					"java": "17",
+					"supported": true,
+					"version": "abc 1.0",
+					"url": "https://abc.org/CI-pipeline",
+					"notes": ""
+				},
+				{
+					"java": "20",
+					"supported": true,
+					"version": "",
+					"url": "",
+					"notes": ""
+				}
+			]
+		}
+	]
+}
